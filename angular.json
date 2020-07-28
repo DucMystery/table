@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "practice-angualar"
+    }
+  },
+  "defaultProject": "practice-angualar",
+  "cli": {
+    "analytics": "cb81e2ec-8c16-45c3-a77c-260b3f5a78ce"
+  }
 }
